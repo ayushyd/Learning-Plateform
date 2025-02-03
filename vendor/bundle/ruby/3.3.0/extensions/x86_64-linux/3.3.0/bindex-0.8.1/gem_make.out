@@ -1,0 +1,18 @@
+current directory: /home/ayush/online_learning_platform/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/share/rvm/rubies/ruby-3.3.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/ayush/online_learning_platform/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250203-1919207-nwl1mr sitelibdir\=./.gem.20250203-1919207-nwl1mr clean
+
+current directory: /home/ayush/online_learning_platform/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250203-1919207-nwl1mr sitelibdir\=./.gem.20250203-1919207-nwl1mr
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/ayush/online_learning_platform/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250203-1919207-nwl1mr sitelibdir\=./.gem.20250203-1919207-nwl1mr install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20250203-1919207-nwl1mr/skiptrace/internal
+
+current directory: /home/ayush/online_learning_platform/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250203-1919207-nwl1mr sitelibdir\=./.gem.20250203-1919207-nwl1mr clean

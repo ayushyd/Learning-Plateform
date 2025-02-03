@@ -1,0 +1,19 @@
+current directory: /home/ayush/online_learning_platform/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+/usr/share/rvm/rubies/ruby-3.3.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/ayush/online_learning_platform/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250203-1919207-6xxk27 sitelibdir\=./.gem.20250203-1919207-6xxk27 clean
+
+current directory: /home/ayush/online_learning_platform/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250203-1919207-6xxk27 sitelibdir\=./.gem.20250203-1919207-6xxk27
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/ayush/online_learning_platform/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250203-1919207-6xxk27 sitelibdir\=./.gem.20250203-1919207-6xxk27 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250203-1919207-6xxk27/debug
+
+current directory: /home/ayush/online_learning_platform/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250203-1919207-6xxk27 sitelibdir\=./.gem.20250203-1919207-6xxk27 clean
