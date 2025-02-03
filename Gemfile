@@ -60,7 +60,7 @@ gem 'devise', '~> 4.9'
 gem 'cancancan', '~> 3.5' 
 gem 'bootstrap', '~> 5.3' 
 gem 'simple_form', '~> 5.2' 
-gem 'carrierwave', '~> 2.2' 
+gem 'carrierwave', '~> 3.1' 
 gem 'stripe', '~> 8.0' 
 gem 'sassc-rails'
 
