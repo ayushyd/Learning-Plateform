@@ -61,6 +61,6 @@ gem 'cancancan', '~> 3.5'
 gem 'bootstrap', '~> 5.3' 
 gem 'simple_form', '~> 5.2' 
 gem 'carrierwave', '~> 2.2' 
-gem 'stripe', '~> 8.0' 
+gem 'stripe', '~> 13.4' 
 gem 'sassc-rails'
 
